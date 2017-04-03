@@ -1,2 +1,2 @@
-# EasyCMD
-Simplifies most of the default commands in your MCPE Server
+# EasyCMD 
+[![Poggit-CI](https://poggit.pmmp.io/ci.badge/BoxOfDevs/Functions/Functions)](https://poggit.pmmp.io/ci/BoxOfDevs/Functions/Functions)

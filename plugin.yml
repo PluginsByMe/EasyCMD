@@ -1,0 +1,55 @@
+name: EasyCMD
+main: EasyCMD\EasyCMD
+version: 1.0
+api: [1.0.0, 2.0.0, 3.0.0]
+commands:
+    EH:
+        description: "List all of the commands that have been shortened in EasyCMD and also better descriptions."
+    s:
+        description: "Sets the sender's gamemode to Survival"
+    c:
+        description: "Sets the sender's gamemode to Creative"
+    a:
+        description: "Sets the sender's gamemode to Adventure"
+    sp:
+        description: "Sets the sender's gamemode to Spectator"
+    bl:
+        description: "Display the banlist"
+    dgs:
+        description: "Sets the default gamemode to Srvival"
+    dgc:
+        description: "Sets the default gamemode to Creative"
+    dga:
+        description: "Sets the default gamemode to Adventure"
+    dgsp:
+        description: "Sets the default gamemode to Spectator"
+    al:
+        description: "Allow the player to join the server (pardon command)"
+    alip:
+        description: "Allow everyone on an IP to join the server"
+    pl:
+        description: "List the plugins."
+    re:
+        description: "Reloads the server."
+    s-a:
+        description: "Saves the entire server (runs the save-all command)."
+    sws:
+        description: "Sets the world's spawn."
+    ssp:
+        description: "Sets the spawnpoint of the command sender to the current location."
+    tmo:
+        description: "Turn the timings on."
+    tmn:
+        description: "Turn the timings off"
+    v:
+        description: "Displays the version information."
+    wc:
+        description: "Clears the weather."
+    wr:
+        description: "Sets the weather to rain."
+    wt:
+        description: "Sets the weather to thunder."
+    wlo:
+        description: "Turns the whitelist on."
+    wln:
+        description: "Turns the whitelist off."
